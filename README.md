@@ -172,8 +172,6 @@ Imagine um ecossistema onde:
 Esta é apenas uma demonstração do potencial. Para implementação real seria necessário:
 
 - Integração com APIs de geração PIX dos bancos
-- Dashboard para gestão de campanhas
-- Analytics de performance
 - Compliance com regulamentações do Bacen
 
 **Interessado em discutir parcerias ou implementações?**
